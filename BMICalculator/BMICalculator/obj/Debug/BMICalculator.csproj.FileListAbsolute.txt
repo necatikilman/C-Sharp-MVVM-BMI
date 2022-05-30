@@ -1,0 +1,17 @@
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.AssemblyReference.cache
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\MainWindow.g.cs
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\App.g.cs
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator_MarkupCompile.cache
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator_MarkupCompile.lref
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\MainWindow.baml
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.g.resources
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\necat\Source\Repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
